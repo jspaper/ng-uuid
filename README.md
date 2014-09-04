@@ -1,4 +1,4 @@
-# angular-uuid
+# ng-uuid
 
 ---
 
@@ -10,7 +10,7 @@ Usage
 - Require module
 
 ```
-angular.module('app', ['angular-uuid'])
+angular.module('app', ['uuid'])
 
 .controller('mainCtrl', ['uuid', function (uuid) {
 

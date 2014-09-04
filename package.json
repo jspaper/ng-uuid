@@ -1,5 +1,5 @@
 {
-  "name": "angular-uuid",
+  "name": "ng-uuid",
   "version": "0.1.0",
   "description": "Angular.js uuid service and directive",
   "main": "Gruntfile.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/jspaper/angular-uuid.git"
+    "url": "git@github.com/jspaper/ng-uuid.git"
   },
   "author": "Josh Chang",
   "license": "MIT"
